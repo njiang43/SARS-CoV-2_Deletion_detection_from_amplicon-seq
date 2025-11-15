@@ -25,10 +25,10 @@ To set up the same software environment on your own system:
 #    https://docs.conda.io/en/latest/miniconda.html
 
 # 2. Create a new environment named "python3" with Python 3.10
-conda create -y -n python3 python=3.10
+conda create -y -n SARS-CoV-2_Deletion_detection_from_amplicon-seq python=3.10
 
 # 3. Activate the environment
-conda activate python3
+conda activate SARS-CoV-2_Deletion_detection_from_amplicon-seq
 
 # 4. Configure channels
 conda config --add channels r
